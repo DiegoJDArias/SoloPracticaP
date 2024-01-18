@@ -1,0 +1,2 @@
+# SoloPracticaP
+Programacion en Python
